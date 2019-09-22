@@ -1,0 +1,563 @@
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=137&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Ajwan&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=281&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Alasande%20Gram&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=325&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Almond(Badam)&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=166&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Alsandikai&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=86&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Amaranthus&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=130&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Ambada%20Seed&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=355&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Amla(Nelli%20Kai)&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=102&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Amphophalus&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=209&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Antawala&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=379&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Anthorium&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=326&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Apricot(Jardalu/Khumani)&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=140&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Arecanut(Betelnut/Supari)&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=49&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Arhar%20(Tur/Red%20Gram)(Whole)&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=260&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Arhar%20Dal(Tur%20Dal)&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=83&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Ashgourd&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=232&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Astera&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=269&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Avare%20Dal&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=28&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Bajra(Pearl%20Millet/Cumbu)&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=274&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Balekai&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=204&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Bamboo&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=19&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Banana&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=90&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Banana%20-%20Green&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=29&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Barley%20(Jau)&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=321&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Bay%20leaf%20(Tejpatta)&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=94&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Beans&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=262&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Beaten%20Rice&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=157&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Beetroot&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=137&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Ajwan&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=137&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Ajwan&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=137&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Ajwan&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=137&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Ajwan&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=137&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Ajwan&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=137&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Ajwan&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=137&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Ajwan&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=137&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-29&DateTo=2018-12-31&Fr_Date=2018-12-29&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Ajwan&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=137&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-25&DateTo=2018-12-31&Fr_Date=2018-12-25&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Ajwan&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=137&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-25&DateTo=2018-12-31&Fr_Date=2018-12-25&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Ajwan&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 302 130
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /default.aspx HTTP/1.1" 302 156
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /Error.aspx?aspxerrorpath=/default.aspx HTTP/1.1" 200 9819
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=137&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-25&DateTo=2018-12-31&Fr_Date=2018-12-25&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Ajwan&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=137&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-25&DateTo=2018-12-31&Fr_Date=2018-12-25&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Ajwan&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=137&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-25&DateTo=2018-12-31&Fr_Date=2018-12-25&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Ajwan&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=137&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-25&DateTo=2018-12-31&Fr_Date=2018-12-25&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Ajwan&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=137&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-25&DateTo=2018-12-31&Fr_Date=2018-12-25&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Ajwan&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=137&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-25&DateTo=2018-12-31&Fr_Date=2018-12-25&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Ajwan&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=137&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-25&DateTo=2018-12-31&Fr_Date=2018-12-25&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Ajwan&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=137&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-25&DateTo=2018-12-31&Fr_Date=2018-12-25&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Ajwan&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=137&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-25&DateTo=2018-12-31&Fr_Date=2018-12-25&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Ajwan&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=137&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-25&DateTo=2018-12-31&Fr_Date=2018-12-25&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Ajwan&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=137&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-25&DateTo=2018-12-31&Fr_Date=2018-12-25&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Ajwan&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=137&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-25&DateTo=2018-12-31&Fr_Date=2018-12-25&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Ajwan&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=2&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-28&DateTo=2018-12-31&Fr_Date=2018-12-28&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-28&DateTo=2018-12-31&Fr_Date=2018-12-28&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-28&DateTo=2018-12-31&Fr_Date=2018-12-28&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-28&DateTo=2018-12-31&Fr_Date=2018-12-28&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=2&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=2&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=2&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-30&DateTo=2018-12-30&Fr_Date=2018-12-30&To_Date=2018-12-30&Tx_Trend=2&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=2&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-30&DateTo=2018-12-30&Fr_Date=2018-12-30&To_Date=2018-12-30&Tx_Trend=2&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=2&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-30&DateTo=2018-12-30&Fr_Date=2018-12-30&To_Date=2018-12-30&Tx_Trend=2&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-30&DateTo=2018-12-31&Fr_Date=2018-12-30&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=2&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-30&DateTo=2018-12-30&Fr_Date=2018-12-30&To_Date=2018-12-30&Tx_Trend=2&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=2&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=31-Dec-2018&DateTo=31-Dec-2018&Fr_Date=31-Dec-2018&To_Date=31-Dec-2018&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=2&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:31-Dec-2018 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=35&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Brinjal&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=35&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Brinjal&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=35&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=2&Tx_CommodityHead=Brinjal&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:2019-01-05 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=35&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Brinjal&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=35&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2018-12-31&DateTo=2018-12-31&Fr_Date=2018-12-31&To_Date=2018-12-31&Tx_Trend=2&Tx_CommodityHead=Brinjal&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:2019-01-05 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=35&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Brinjal&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=35&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Brinjal&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=35&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=2&Tx_CommodityHead=Brinjal&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 None
+INFO:root:2019-01-05 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=35&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Brinjal&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 447573
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 429874
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 429959
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 429695
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 429567
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 429869
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 430009
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 430161
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 430484
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 379011
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=35&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=2&Tx_CommodityHead=Brinjal&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 910112
+INFO:root:2019-01-05 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=35&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Brinjal&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 447573
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 429874
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 429959
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 429695
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 429567
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 429869
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 430009
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 430161
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 430484
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 379011
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=35&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=2&Tx_CommodityHead=Brinjal&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 910112
+INFO:root:2019-01-05 done
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.agriiprince.com
+DEBUG:urllib3.connectionpool:http://www.agriiprince.com:80 "POST /test/aditya/loop_cron.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=35&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Brinjal&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 447573
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 429874
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 429959
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 429695
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 429567
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 429869
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 430009
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 430161
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 430484
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "POST /SearchCmmMkt.aspx?Tx_Commodity=17&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=0&Tx_CommodityHead=Apple&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 379011
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): agmarknet.gov.in
+DEBUG:urllib3.connectionpool:http://agmarknet.gov.in:80 "GET /SearchCmmMkt.aspx?Tx_Commodity=35&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=2019-01-05&DateTo=2019-01-05&Fr_Date=2019-01-05&To_Date=2019-01-05&Tx_Trend=2&Tx_CommodityHead=Brinjal&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select-- HTTP/1.1" 200 910112

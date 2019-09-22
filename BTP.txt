@@ -1,0 +1,9 @@
+1. RSS Feed 
+2. Mandi Price
+3. Crop Information
+4. Weather Information -Done
+5. Crop Disease detection
+6. Nearest Agri Unit -Done
+7. Plant Identification
+8. Most Producible Crop
+9. Portal
